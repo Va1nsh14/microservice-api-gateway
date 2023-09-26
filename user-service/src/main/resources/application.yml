@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: USER-SERVICE
+  data:
+    mongodb:
+      host: localhost
+      port: 64000
+      database: user-service
